@@ -1,12 +1,11 @@
 # datastucture_python
-This is a series of algorithms on datastructure from different youtube channel i found:
+This is a series of algorithms on data structure from different you tube channel i found:
 
-Sorting:
-  bubble sort
-  quick sort
-  selection sort
-Search:
-  linksearch
- Map:
- 
- TO UPDATE
+- Sorting:
+  - bubble sort
+  - quick sort
+  - selection sort
+- Search:
+  - linksearch
+  - Map:
+
